@@ -1,7 +1,0 @@
-deployments:
-  environmentMapping:
-    testing:
-      - "temploy"
-      - "alpha-package"
-    production:
-      - "production"

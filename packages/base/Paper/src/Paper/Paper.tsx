@@ -48,7 +48,7 @@ export const Paper = forwardRef<HTMLDivElement, Props>(function Paper(
     <div
       ref={ref}
       className={twMerge(
-        'bg-white',
+        'bg-red-12',
         shadowsMapping[elevation],
         'transition-shadow duration-300 delay-0',
         className
